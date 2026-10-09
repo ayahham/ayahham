@@ -6,4 +6,4 @@ I like to explore the intersection of data, technology, and people.
 
 I mainly work with Python, SQL, and occasionally R. 
 
-Most of my work displayed include a mix of personal and academic projects.
+Most of my work displayed includes a mix of personal and academic projects.
